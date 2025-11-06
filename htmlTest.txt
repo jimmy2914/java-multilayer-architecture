@@ -1,0 +1,17 @@
+<h1>Título Principal del Contenido</h1>
+
+    <p>Este es un párrafo introductorio. El contenido visible de tu sitio, como textos, imágenes y enlaces, se coloca aquí dentro de las etiquetas body.</p>
+
+    <h2>Esto es un subtítulo</h2>
+
+    <p>Puedes añadir más párrafos y organizar la información con diferentes elementos. Por ejemplo, una lista:</p>
+
+    <ul>
+        <li>Primer punto de la lista.</li>
+        <li>Segundo punto de la lista.</li>
+        <li>Tercer punto de la lista.</li>
+    </ul>
+
+    <p>También puedes incluir un enlace, como este:</p>
+    
+    <a href="https://www.wikipedia.org/">Visita Wikipedia</a>

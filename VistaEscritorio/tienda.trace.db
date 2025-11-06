@@ -1,0 +1,6 @@
+2025-02-27 21:57:11.057308-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTOS" not found (this database is empty); SQL statement:
+SELECT * FROM productos [42104-224]
+2025-02-27 22:03:06.480994-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTOS" not found (this database is empty); SQL statement:
+SELECT * FROM productos [42104-224]

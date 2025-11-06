@@ -1,0 +1,6 @@
+tienda\sistemaclientes\ClienteDuplicadoException.class
+tienda\sistemaclientes\MySQLDatabaseConnection.class
+tienda\sistemaclientes\Clientes.class
+tienda\sistemaclientes\Main.class
+tienda\sistemaclientes\DatabaseConnection.class
+tienda\sistemaclientes\SistemaClientes.class

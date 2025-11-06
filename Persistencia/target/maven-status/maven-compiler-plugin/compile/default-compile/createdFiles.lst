@@ -1,0 +1,3 @@
+tienda\persistencia\Fabrica\FabricaConexion.class
+tienda\persistencia\Fabrica\FabricaConexionH2.class
+tienda\persistencia\ProductoDAO.class
